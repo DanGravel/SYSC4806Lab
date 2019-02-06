@@ -7,4 +7,10 @@ before_script:
 - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
 
 sript: mvm test -B
+
+deploy:
+ provider: heroku
+ api-key: 
+  secure: $HEROKU_API_KEY
+ app: dan-buddyinfo
  
