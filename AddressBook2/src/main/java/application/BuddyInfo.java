@@ -13,9 +13,15 @@ public class BuddyInfo {
     private String name;
     private String phone;
     private String address;
+    private int age;
 
     public BuddyInfo() {
 
+    }
+
+    public BuddyInfo(String name, String address, String phone, int age){
+        this(name, phone, address);
+        this.age = age;
     }
 
     public BuddyInfo(String name, String address, String phone){
@@ -47,6 +53,10 @@ public class BuddyInfo {
     public void setAddress(String address) {
         this.address = address;
     }
+
+    public void setAge(int age) {this.age = age;}
+
+    public int getAge() {return age;}
 
     @Override
     public String toString() {

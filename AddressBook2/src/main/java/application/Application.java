@@ -22,10 +22,10 @@ public class Application {
         return (args) -> {
             // save a couple of customers
 
-            repository.save(new BuddyInfo("Dan", "Carleton","555"));
-            repository.save(new BuddyInfo("Steve", "Carleton","666"));
-            repository.save(new BuddyInfo("Allen", "Carleton2","777"));
-            repository.save(new BuddyInfo("Alex", "Carleton3","888"));
+            repository.save(new BuddyInfo("Dan", "Carleton","555", 55));
+            repository.save(new BuddyInfo("Steve", "Carleton","666", 77));
+            repository.save(new BuddyInfo("Allen", "Carleton2","777", 88));
+            repository.save(new BuddyInfo("Alex", "Carleton3","888", 99));
 
 
             // fetch customers by name

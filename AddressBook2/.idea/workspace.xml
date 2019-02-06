@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67169987-38e6-486e-8cc6-d73ea38fdc0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/application/ApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AddressBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AddressBookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AddressBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AddressBookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/BuddyInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/BuddyInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application/BuddyInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application/BuddyInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BuddyInfoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BuddyInfoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/application/ApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/application/ApplicationTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BuddyInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+            <state relative-caret-position="92">
+              <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1977#2007#1" expanded="true" />
@@ -69,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="235">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -90,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/application/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="276">
+              <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/application/BuddyInfo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="426">
+              <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,24 +160,24 @@
         <option value="$PROJECT_DIR$/src/main/java/BuddyInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/META-INF/persistence.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/AddressBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/BuddyInfoRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/BuddyInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/AddressBook.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/BuddyInfoController.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/GUIController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/AddressBookControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/AddressBookController.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/BuddyInfoRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/Application.java" />
         <option value="$PROJECT_DIR$/src/test/java/AddressBookMVCTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/AddressBookTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/application/ApplicationTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/application/BuddyInfo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BuddyInfoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/application/Application.java" />
       </list>
     </option>
   </component>
@@ -252,6 +253,29 @@
               <item name="AddressBook2" type="b2602c69:ProjectViewProjectNode" />
               <item name="AddressBook2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AddressBook2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressBook2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AddressBook2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressBook2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AddressBook2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AddressBook2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,7 +305,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549467715524" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549469949159" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -324,19 +348,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ApplicationTest.postBuddy">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="application.Application" />
       <module name="AddressBook" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AddressBook" />
-      <option name="PACKAGE_NAME" value="application" />
-      <option name="MAIN_CLASS_NAME" value="application.ApplicationTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -383,6 +404,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BuddyInfoTest.setAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddressBook" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BuddyInfoTest" />
+      <option name="METHOD_NAME" value="setAge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="AddressBook" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="application.Application" />
@@ -392,11 +423,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.BuddyInfoTest.setAge" />
         <item itemvalue="JUnit.ApplicationTest.postBuddy" />
         <item itemvalue="JUnit.ApplicationTest.getBuddy" />
         <item itemvalue="JUnit.ApplicationTest.shouldReturnDefaultMessage" />
-        <item itemvalue="JUnit.ApplicationTest" />
-        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -415,14 +446,11 @@
       <workItem from="1548255478843" duration="3343000" />
       <workItem from="1548816913068" duration="35000" />
       <workItem from="1548817166699" duration="7062000" />
-      <workItem from="1549463282018" duration="4232000" />
+      <workItem from="1549463282018" duration="5891000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ApplicationTest_shouldReturnDefaultMessage - 2019.02.06 at 09h 52m 20s.xml">
-      <configuration name="ApplicationTest.shouldReturnDefaultMessage" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ApplicationTest_shouldReturnDefaultMessage - 2019.02.06 at 09h 57m 06s.xml">
       <configuration name="ApplicationTest.shouldReturnDefaultMessage" configurationId="JUnit" />
     </history-entry>
@@ -450,9 +478,12 @@
     <history-entry file="ApplicationTest_postBuddy - 2019.02.06 at 10h 19m 09s.xml">
       <configuration name="ApplicationTest.postBuddy" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BuddyInfoTest_setAge - 2019.02.06 at 11h 16m 05s.xml">
+      <configuration name="BuddyInfoTest.setAge" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27195000" />
+    <option name="totallyTimeSpent" value="28854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="3" width="1366" height="765" extended-state="6" />
@@ -470,7 +501,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="0" weight="0.3286385" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3286385" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.4731861" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.30441642" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -580,38 +611,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BuddyInfoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1977#2007#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AddressBookMVCTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/BuddyInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -662,10 +665,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/BuddyInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BuddyInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1977#2007#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="276">
+          <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

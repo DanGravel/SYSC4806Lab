@@ -50,6 +50,12 @@ public class BuddyInfoTest {
         assertEquals("NotCarleton", bd.getAddress());
     }
 
+    @Test public void setAge(){
+        BuddyInfo bd = new BuddyInfo("Dan", "Carleton", "555-555-5555");
+        bd.setAge(55);
+        assertEquals(55, bd.getAge());
+    }
+
     @Test
     public void testJPA() {
         BuddyInfo bd = new BuddyInfo();
