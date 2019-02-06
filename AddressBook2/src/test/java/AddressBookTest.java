@@ -4,8 +4,6 @@ import org.junit.Test;
 
 import javax.persistence.*;
 
-import java.util.List;
-
 import static org.junit.Assert.*;
 
 public class AddressBookTest {
@@ -48,6 +46,5 @@ public class AddressBookTest {
         em.persist(addrBk);
 
         tx.commit();
-
     }
 }

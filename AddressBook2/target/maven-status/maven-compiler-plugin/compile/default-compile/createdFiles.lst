@@ -1,7 +1,0 @@
-application/Application.class
-application/GUIController.class
-application/BuddyInfo.class
-application/AddressBook.class
-application/AddressBookController.class
-application/BuddyInfoController.class
-application/BuddyInfoRepository.class
